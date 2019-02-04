@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sachalmalick/Documents/Softdev/UB/CSE_116/lecture/src/main/scala/LectureQuestion.scala:12:4: not found: value varr[0m
+[0m[[0m[31merror[0m] [0m[0m			varr arr = line.split("&")[0m
+[0m[[0m[31merror[0m] [0m[0m			^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sachalmalick/Documents/Softdev/UB/CSE_116/lecture/src/main/scala/LectureQuestion.scala:13:14: not found: value arr[0m
+[0m[[0m[31merror[0m] [0m[0m			for (x <- arr) {[0m
+[0m[[0m[31merror[0m] [0m[0m			          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

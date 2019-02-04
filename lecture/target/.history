@@ -1,0 +1,31 @@
+show organization
+show name
+session save
+exit
+show organization
+set organization := "cse116.ub.chal.tech"
+session save
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
