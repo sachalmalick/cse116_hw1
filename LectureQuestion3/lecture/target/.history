@@ -29,3 +29,27 @@ compile
 run
 compile
 run
+compile
+run
+compile
+run
+compile
+build
+compile
+run
+compile
+run
+compile
+run
+test
+compile
+test
+compile
+test
+compile
+run
+test
+cat src/main/scala/FirstObject.scala
+compile
+run
+test

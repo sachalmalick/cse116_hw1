@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sachalmalick/Documents/Softdev/UB/CSE_116/lecture/src/test/scala/UnitTesting.scala:11:10: comparing values of types Double and String using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m			assert(FirstObject.computeShippingCost(lessThirty) == "less than thirty", lessThirty);[0m
+[0m[[0m[33mwarn[0m] [0m[0m			      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sachalmalick/Documents/Softdev/UB/CSE_116/lecture/src/test/scala/UnitTesting.scala:14:10: comparing values of types Double and String using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m			assert(FirstObject.computeShippingCost(greaterThirty) == "greater than thirty", greaterThirty);[0m
+[0m[[0m[33mwarn[0m] [0m[0m			      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
