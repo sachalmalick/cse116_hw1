@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sachalmalick/Documents/Softdev/lecture/src/test/scala/UnitTesting.scala:16:43: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[Double][0m
+[0m[[0m[31merror[0m] [0m[0m required: Double[0m
+[0m[[0m[31merror[0m] [0m[0m			assert(FirstObject.computeShippingCost(greaterThanThirty) == (5.0 + (greaterThirty - 30)*.25), greaterThirty)[0m
+[0m[[0m[31merror[0m] [0m[0m			                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
